@@ -1,0 +1,174 @@
+
+Succès de l'élément tp_2.
+
+prenom               nom                  
+-------------------- -------------------- 
+Sigourney            Weaver               
+John                 Travolta             
+Nicolas              Cage                 
+Johnny               Depp                 
+James                Stewart              
+Kim                  Novak                
+Kevin                Spacey               
+Anette               Bening               
+Morgan               Freeman              
+Russell              Crowe                
+Harrison             Ford                 
+Rutger               Hauer                
+Bruce                Willis               
+Jacques              Dutronc              
+Brad                 Pitt                 
+Sean                 Connery              
+Christian            Slater               
+Samuel L.            Jackson              
+Rosanna              Arquette             
+Uma                  Thurman              
+Cameron              Diaz                 
+Mat                  Dillon               
+Arnold               Schwartzenegger      
+Roy                  Sheider              
+Robert               Shaw                 
+Richard              Dreyfus              
+Anthony              Hopkins              
+Jodie                Foster               
+Val                  Kilmer               
+Ralph                Fiennes              
+Michelle             Pfeiffer             
+Sandra               Bullock              
+Jeff                 Goldblum             
+Matthew              Broderick            
+Jean                 Reno                 
+Keanu                Reeves               
+Laurence             Fishburne            
+Tom                  Cruise               
+John                 Voight               
+Emmanuelle           Béart                
+Louis                De Funès             
+Michel               Galabru              
+Josiane              Balasko              
+Dominique            Lavanant             
+Gérard               Lanvin               
+Jacques              Villeret             
+Dustin               Hoffman              
+Kelly                McGillis             
+Michel               Blanc                
+Christian            Clavier              
+Thierry              Lhermite             
+Anthony              Perkins              
+Vera                 Miles                
+Janet                Leigh                
+Mark                 Hamill               
+Carrie               Fisher               
+Rod                  Taylor               
+Tippi                Hedren               
+Christina            Ricci                
+Christopher          Walken               
+Nicole               Kidman               
+Jack                 Nicholson            
+Cary                 Grant                
+Eva Marie            Saint                
+James                Mason                
+Kate                 Winslet              
+Leonardo             DiCaprio             
+Milla                Jovovich             
+Fane                 Dunaway              
+John                 Malkovitch           
+Tchéky               Karyo                
+Gary                 Oldman               
+Ian                  Holm                 
+Natalie              Portman              
+Anne                 Parillaud            
+Jean-Hughes          Anglade              
+Jean-Marc            Barr                 
+
+77 lignes sélectionnées. 
+
+count(*)              
+--------------------- 
+45                    
+
+numero      prenom               nom                  
+----------- -------------------- -------------------- 
+10          John                 Woo                  
+11          John                 Travolta             
+26          John                 McTierman            
+66          John                 Voight               
+114         John                 Malkovitch           
+
+numero      prenom               nom                  
+----------- -------------------- -------------------- 
+10          John                 Woo                  
+11          John                 Travolta             
+14          Johnny               Depp                 
+26          John                 McTierman            
+66          John                 Voight               
+114         John                 Malkovitch           
+
+6 lignes sélectionnées. 
+
+numero      titre                                              annee       genre                          pays realisateur 
+----------- -------------------------------------------------- ----------- ------------------------------ ---- ----------- 
+22          Godzilla                                           1998        Action                         USA  58          
+24          Mission: Impossible                                1996        Action                         USA  64          
+43          Leon                                               1994        Action                         FR   111         
+45          Le grand bleu                                      1988        Drame                          FR   111         
+
+numero      titre                                              annee       genre                          pays realisateur 
+----------- -------------------------------------------------- ----------- ------------------------------ ---- ----------- 
+44          Nikita                                             1990        Thriller                       FR   111         
+20          Le silence des agneaux                             1990        Policier                       USA  49          
+11          58 minutes pour vivre                              1990        Action                         USA  28          
+12          Van Gogh                                           1990        Drame                          FR   29          
+43          Leon                                               1994        Action                         FR   111         
+16          Pulp fiction                                       1994        Action                         USA  37          
+14          L'armee des douze singes                           1995        Science-fiction                USA  33          
+13          Seven                                              1995        Policier                       USA  31          
+32          MICROCOSMOS                                        1996        Documentaire                   FR   87          
+24          Mission: Impossible                                1996        Action                         USA  64          
+28          Le monde perdu                                     1997        Horreur                        USA  45          
+42          Le cinquième élément                               1997        Science-fiction                FR   111         
+5           Volte/Face                                         1997        Action                         USA  10          
+3           Titanic                                            1997        Drame                          USA  6           
+22          Godzilla                                           1998        Action                         USA  58          
+21          Le prince d'Egypte                                 1998        Dessin anime                   USA  52          
+17          Mary a tout prix                                   1998        Comedie                        USA  41          
+7           American Beauty                                    1999        Comedie                        USA  17          
+41          Jeanne d'Arc                                       1999        Guerre                         FR   111         
+6           Sleepy Hollow                                      1999        Fantastique                    USA  13          
+23          Matrix                                             1999        Science-fiction                USA  61          
+36          Eyes Wide Shut                                     1999                                       USA  101         
+
+22 lignes sélectionnées. 
+
+numero      titre                                              annee       genre                          pays realisateur 
+----------- -------------------------------------------------- ----------- ------------------------------ ---- ----------- 
+4           Sacrifice                                          1986        Drame                          FR   9           
+25          Kagemusha                                          1980        Guerre                         JP   68          
+32          MICROCOSMOS                                        1996        Documentaire                   FR   87          
+39          Fenetre sur cour                                   1954        Suspense                       USA  3           
+
+numero      titre                                              annee       genre                          pays realisateur 
+----------- -------------------------------------------------- ----------- ------------------------------ ---- ----------- 
+4           Sacrifice                                          1986        Drame                          FR   9           
+25          Kagemusha                                          1980        Guerre                         JP   68          
+32          MICROCOSMOS                                        1996        Documentaire                   FR   87          
+
+numero      titre                                              annee       genre                          pays realisateur 
+----------- -------------------------------------------------- ----------- ------------------------------ ---- ----------- 
+3           Titanic                                            1997        Drame                          USA  6           
+18          Terminator                                         1984        Science-fiction                USA  6           
+
+nom                  
+-------------------- 
+Scott                
+
+prenom               nom                  
+-------------------- -------------------- 
+Kevin                Spacey               
+Morgan               Freeman              
+Brad                 Pitt                 
+
+count(*)              
+--------------------- 
+2                     
+

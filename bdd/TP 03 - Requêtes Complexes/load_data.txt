@@ -1,0 +1,8 @@
+-- Chargement des données avec LOAD DATA LOCAL
+-- Sinon faire les insert into
+SET GLOBAL local_infile=1; -- Ajouter ?allowLoadLocalInfile=true à l'url de connexion
+
+LOAD DATA LOCAL INFILE 'M:/OneDrive - Université de Bourgogne/ESEO/2023-2024/BDD 2023-2024/TP 2024/TP 03 - Requêtes Complexes/Personne.txt'
+INTO TABLE Personne
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n';

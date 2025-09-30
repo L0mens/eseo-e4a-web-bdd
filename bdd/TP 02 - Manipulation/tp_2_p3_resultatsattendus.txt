@@ -1,0 +1,216 @@
+
+Succès de l'élément tp_3.
+
+numero      prenom     titre                                    
+----------- ---------- ---------------------------------------- 
+25          Alexandre  Applications Web et PHP                  
+17          Alexandre  Applications Web et PHP                  
+5           Chloé      Applications Web et PHP                  
+10          Chloé      Applications Web et PHP                  
+23          Clément    Applications Web et PHP                  
+16          Hugo       Applications Web et PHP                  
+1           Léa        Applications Web et PHP                  
+11          Marine     Applications Web et PHP                  
+12          Mathilde   Applications Web et PHP                  
+15          Maxime     Applications Web et PHP                  
+18          Quentin    Applications Web et PHP                  
+13          Thomas     Applications Web et PHP                  
+24          Alexis     Bases de données relationnelles          
+10          Chloé      Bases de données relationnelles          
+7           Emma       Bases de données relationnelles          
+26          Florian    Bases de données relationnelles          
+16          Hugo       Bases de données relationnelles          
+8           Laura      Bases de données relationnelles          
+1           Léa        Bases de données relationnelles          
+2           Manon      Bases de données relationnelles          
+15          Maxime     Bases de données relationnelles          
+6           Océane     Bases de données relationnelles          
+20          Théo       Bases de données relationnelles          
+22          Valentin   Bases de données relationnelles          
+17          Alexandre  Infrastructures                          
+24          Alexis     Infrastructures                          
+21          Antoine    Infrastructures                          
+10          Chloé      Infrastructures                          
+5           Chloé      Infrastructures                          
+26          Florian    Infrastructures                          
+8           Laura      Infrastructures                          
+4           Marie      Infrastructures                          
+18          Quentin    Infrastructures                          
+9           Sarah      Infrastructures                          
+20          Théo       Infrastructures                          
+13          Thomas     Infrastructures                          
+17          Alexandre  Programmation Orientée Objets            
+21          Antoine    Programmation Orientée Objets            
+3           Camille    Programmation Orientée Objets            
+10          Chloé      Programmation Orientée Objets            
+7           Emma       Programmation Orientée Objets            
+16          Hugo       Programmation Orientée Objets            
+8           Laura      Programmation Orientée Objets            
+14          Lucas      Programmation Orientée Objets            
+4           Marie      Programmation Orientée Objets            
+11          Marine     Programmation Orientée Objets            
+15          Maxime     Programmation Orientée Objets            
+19          Nicolas    Programmation Orientée Objets            
+25          Alexandre  Réseaux                                  
+5           Chloé      Réseaux                                  
+26          Florian    Réseaux                                  
+14          Lucas      Réseaux                                  
+4           Marie      Réseaux                                  
+11          Marine     Réseaux                                  
+15          Maxime     Réseaux                                  
+19          Nicolas    Réseaux                                  
+18          Quentin    Réseaux                                  
+9           Sarah      Réseaux                                  
+13          Thomas     Réseaux                                  
+22          Valentin   Réseaux                                  
+24          Alexis     Sécurité                                 
+3           Camille    Sécurité                                 
+7           Emma       Sécurité                                 
+26          Florian    Sécurité                                 
+16          Hugo       Sécurité                                 
+8           Laura      Sécurité                                 
+11          Marine     Sécurité                                 
+12          Mathilde   Sécurité                                 
+19          Nicolas    Sécurité                                 
+6           Océane     Sécurité                                 
+13          Thomas     Sécurité                                 
+22          Valentin   Sécurité                                 
+25          Alexandre  Spécifications                           
+24          Alexis     Spécifications                           
+3           Camille    Spécifications                           
+23          Clément    Spécifications                           
+7           Emma       Spécifications                           
+16          Hugo       Spécifications                           
+11          Marine     Spécifications                           
+12          Mathilde   Spécifications                           
+19          Nicolas    Spécifications                           
+6           Océane     Spécifications                           
+9           Sarah      Spécifications                           
+22          Valentin   Spécifications                           
+17          Alexandre  Technologie XML                          
+25          Alexandre  Technologie XML                          
+24          Alexis     Technologie XML                          
+21          Antoine    Technologie XML                          
+10          Chloé      Technologie XML                          
+26          Florian    Technologie XML                          
+2           Manon      Technologie XML                          
+11          Marine     Technologie XML                          
+19          Nicolas    Technologie XML                          
+18          Quentin    Technologie XML                          
+9           Sarah      Technologie XML                          
+13          Thomas     Technologie XML                          
+25          Alexandre  Test                                     
+21          Antoine    Test                                     
+3           Camille    Test                                     
+5           Chloé      Test                                     
+10          Chloé      Test                                     
+7           Emma       Test                                     
+8           Laura      Test                                     
+1           Léa        Test                                     
+14          Lucas      Test                                     
+4           Marie      Test                                     
+11          Marine     Test                                     
+12          Mathilde   Test                                     
+
+108 lignes sélectionnées. 
+
+numero      prenom     note        
+----------- ---------- ----------- 
+7           Emma       19          
+24          Alexis     18          
+12          Mathilde   18          
+8           Laura      16          
+16          Hugo       15          
+13          Thomas     13          
+26          Florian    11          
+6           Océane     11          
+22          Valentin   10          
+3           Camille    6           
+11          Marine     3           
+19          Nicolas    0           
+
+12 lignes sélectionnées. 
+
+moyenne          
+---------------- 
+11.6667          
+
+moyenne          
+---------------- 
+                 
+
+numero      prenom     
+----------- ---------- 
+24          Alexis     
+10          Chloé      
+7           Emma       
+26          Florian    
+16          Hugo       
+8           Laura      
+1           Léa        
+2           Manon      
+15          Maxime     
+6           Océane     
+20          Théo       
+22          Valentin   
+
+12 lignes sélectionnées. 
+
+numero      prenom     titre                                    
+----------- ---------- ---------------------------------------- 
+17          Alexandre  Infrastructures                          
+25          Alexandre  Technologie XML                          
+25          Alexandre  Spécifications                           
+17          Alexandre  Programmation Orientée Objets            
+25          Alexandre  Test                                     
+17          Alexandre  Technologie XML                          
+24          Alexis     Technologie XML                          
+24          Alexis     Spécifications                           
+21          Antoine    Test                                     
+21          Antoine    Technologie XML                          
+3           Camille    Spécifications                           
+3           Camille    Test                                     
+10          Chloé      Technologie XML                          
+5           Chloé      Infrastructures                          
+10          Chloé      Test                                     
+5           Chloé      Test                                     
+23          Clément    Spécifications                           
+7           Emma       Test                                     
+7           Emma       Spécifications                           
+7           Emma       Programmation Orientée Objets            
+26          Florian    Infrastructures                          
+26          Florian    Technologie XML                          
+16          Hugo       Spécifications                           
+8           Laura      Test                                     
+1           Léa        Test                                     
+14          Lucas      Test                                     
+2           Manon      Technologie XML                          
+4           Marie      Test                                     
+11          Marine     Test                                     
+11          Marine     Technologie XML                          
+11          Marine     Spécifications                           
+12          Mathilde   Spécifications                           
+12          Mathilde   Test                                     
+19          Nicolas    Technologie XML                          
+19          Nicolas    Spécifications                           
+6           Océane     Spécifications                           
+18          Quentin    Technologie XML                          
+9           Sarah      Spécifications                           
+9           Sarah      Technologie XML                          
+13          Thomas     Technologie XML                          
+22          Valentin   Spécifications                           
+
+41 lignes sélectionnées. 
+
+nombre                
+--------------------- 
+3                     
+
+nombre                
+--------------------- 
+4                     
+
+moyenne          
+---------------- 
+7.7500           
+

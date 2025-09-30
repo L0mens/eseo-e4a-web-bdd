@@ -1,0 +1,400 @@
+
+Succès de l'élément tp_1;.
+
+numero      prenom     
+----------- ---------- 
+1           Léa        
+2           Manon      
+3           Camille    
+4           Marie      
+5           Chloé      
+6           Océane     
+7           Emma       
+8           Laura      
+9           Sarah      
+10          Chloé      
+11          Marine     
+12          Mathilde   
+13          Thomas     
+14          Lucas      
+15          Maxime     
+16          Hugo       
+17          Alexandre  
+18          Quentin    
+19          Nicolas    
+20          Théo       
+21          Antoine    
+22          Valentin   
+23          Clément    
+24          Alexis     
+25          Alexandre  
+26          Florian    
+
+26 lignes sélectionnées. 
+
+numero      prenom     
+----------- ---------- 
+25          Alexandre  
+17          Alexandre  
+24          Alexis     
+21          Antoine    
+3           Camille    
+5           Chloé      
+10          Chloé      
+23          Clément    
+7           Emma       
+26          Florian    
+16          Hugo       
+8           Laura      
+1           Léa        
+14          Lucas      
+2           Manon      
+4           Marie      
+11          Marine     
+12          Mathilde   
+15          Maxime     
+19          Nicolas    
+6           Océane     
+18          Quentin    
+9           Sarah      
+20          Théo       
+13          Thomas     
+22          Valentin   
+
+26 lignes sélectionnées. 
+
+numero      prenom     
+----------- ---------- 
+1           Léa        
+
+numero      prenom     
+----------- ---------- 
+4           Marie      
+11          Marine     
+
+nombre                
+--------------------- 
+2                     
+
+numero      titre                datepublication           duree       realisateur 
+----------- -------------------- ------------------------- ----------- ----------- 
+1           Nouvel An 2016       2016-01-13                320         19          
+2           Anniversaire         2016-10-02                633         18          
+3           Les poissons de l'an 2016-04-14                238         10          
+4           Noel 2011            2011-12-27                372         17          
+5           Délire de l'été      2005-07-17                490         10          
+6           C'est la rentrée     2010-09-04                528         7           
+7           Cher Père Noel       2015-12-04                600         23          
+8           Vivement les vacance 2009-06-10                293         23          
+9           Nouvel An 2011       2011-01-14                817         10          
+10          Halloween            2016-11-19                375         14          
+11          Bientôt Noël         2005-12-08                472         18          
+12          Vacances au ski      2010-03-13                503         26          
+13          Vacances au ski      2005-03-03                269         17          
+14          Anniversaire         2013-10-26                496         18          
+15          C'est la rentrée     2008-09-03                772         24          
+16          C'est la rentrée     2014-09-04                466         9           
+17          Vacances au ski - pr 2010-02-02                352         26          
+18          Bientôt les vacances 2012-06-17                784         9           
+19          Anniversaire         2013-01-27                683         1           
+20          Chronique Ciné       2008-04-06                603         5           
+21          Préparation de Hallo 2015-10-23                819         23          
+22          Musique du moment    2014-05-22                298         1           
+23          Délire de l'été      2010-08-15                378         11          
+24          En route vers Noel   2012-12-20                826         15          
+25          Nouvel An 2016       2016-01-06                428         10          
+26          Nouvel An 2015       2005-01-23                279         10          
+27          Délires              2018-02-23                888         16          
+28          Tuto du jour         2011-05-20                308         10          
+29          Poissons             2018-04-01                202         6           
+30          C'est juste pour dir 2017-04-10                829         9           
+
+30 lignes sélectionnées. 
+
+numero      titre                datepublication           duree       realisateur 
+----------- -------------------- ------------------------- ----------- ----------- 
+2           Anniversaire         2016-10-02                633         18          
+6           C'est la rentrée     2010-09-04                528         7           
+7           Cher Père Noel       2015-12-04                600         23          
+9           Nouvel An 2011       2011-01-14                817         10          
+12          Vacances au ski      2010-03-13                503         26          
+15          C'est la rentrée     2008-09-03                772         24          
+18          Bientôt les vacances 2012-06-17                784         9           
+19          Anniversaire         2013-01-27                683         1           
+20          Chronique Ciné       2008-04-06                603         5           
+21          Préparation de Hallo 2015-10-23                819         23          
+24          En route vers Noel   2012-12-20                826         15          
+27          Délires              2018-02-23                888         16          
+30          C'est juste pour dir 2017-04-10                829         9           
+
+13 lignes sélectionnées. 
+
+numero      titre                datepublication           duree       realisateur 
+----------- -------------------- ------------------------- ----------- ----------- 
+1           Nouvel An 2016       2016-01-13                320         19          
+2           Anniversaire         2016-10-02                633         18          
+4           Noel 2011            2011-12-27                372         17          
+5           Délire de l'été      2005-07-17                490         10          
+6           C'est la rentrée     2010-09-04                528         7           
+7           Cher Père Noel       2015-12-04                600         23          
+10          Halloween            2016-11-19                375         14          
+11          Bientôt Noël         2005-12-08                472         18          
+12          Vacances au ski      2010-03-13                503         26          
+14          Anniversaire         2013-10-26                496         18          
+16          C'est la rentrée     2014-09-04                466         9           
+17          Vacances au ski - pr 2010-02-02                352         26          
+19          Anniversaire         2013-01-27                683         1           
+20          Chronique Ciné       2008-04-06                603         5           
+23          Délire de l'été      2010-08-15                378         11          
+25          Nouvel An 2016       2016-01-06                428         10          
+28          Tuto du jour         2011-05-20                308         10          
+
+17 lignes sélectionnées. 
+
+moyenne          
+---------------- 
+510.7000         
+
+numero      titre                datepublication           duree       realisateur 
+----------- -------------------- ------------------------- ----------- ----------- 
+1           Nouvel An 2016       2016-01-13                320         19          
+2           Anniversaire         2016-10-02                633         18          
+3           Les poissons de l'an 2016-04-14                238         10          
+10          Halloween            2016-11-19                375         14          
+25          Nouvel An 2016       2016-01-06                428         10          
+
+moyenne          
+---------------- 
+374.0000         
+
+numero      titre                datepublication           duree       realisateur 
+----------- -------------------- ------------------------- ----------- ----------- 
+6           C'est la rentrée     2010-09-04                528         7           
+15          C'est la rentrée     2008-09-03                772         24          
+16          C'est la rentrée     2014-09-04                466         9           
+
+titre                datepublication           prenom     
+-------------------- ------------------------- ---------- 
+Noel 2011            2011-12-27                Alexandre  
+Vacances au ski      2005-03-03                Alexandre  
+C'est la rentrée     2008-09-03                Alexis     
+Chronique Ciné       2008-04-06                Chloé      
+Les poissons de l'an 2016-04-14                Chloé      
+Délire de l'été      2005-07-17                Chloé      
+Nouvel An 2011       2011-01-14                Chloé      
+Nouvel An 2016       2016-01-06                Chloé      
+Nouvel An 2015       2005-01-23                Chloé      
+Tuto du jour         2011-05-20                Chloé      
+Cher Père Noel       2015-12-04                Clément    
+Vivement les vacance 2009-06-10                Clément    
+Préparation de Hallo 2015-10-23                Clément    
+C'est la rentrée     2010-09-04                Emma       
+Vacances au ski      2010-03-13                Florian    
+Vacances au ski - pr 2010-02-02                Florian    
+Délires              2018-02-23                Hugo       
+Anniversaire         2013-01-27                Léa        
+Musique du moment    2014-05-22                Léa        
+Halloween            2016-11-19                Lucas      
+Délire de l'été      2010-08-15                Marine     
+En route vers Noel   2012-12-20                Maxime     
+Nouvel An 2016       2016-01-13                Nicolas    
+Poissons             2018-04-01                Océane     
+Anniversaire         2016-10-02                Quentin    
+Bientôt Noël         2005-12-08                Quentin    
+Anniversaire         2013-10-26                Quentin    
+C'est la rentrée     2014-09-04                Sarah      
+Bientôt les vacances 2012-06-17                Sarah      
+C'est juste pour dir 2017-04-10                Sarah      
+
+30 lignes sélectionnées. 
+
+titre                datepublication           
+-------------------- ------------------------- 
+Bientôt les vacances 2012-06-17                
+C'est la rentrée     2014-09-04                
+C'est juste pour dir 2017-04-10                
+
+total                             
+--------------------------------- 
+1601                              
+
+titre                mois      prenom     numero      
+-------------------- --------- ---------- ----------- 
+Nouvel An 2016       January   Chloé      10          
+Nouvel An 2015       January   Chloé      10          
+Nouvel An 2011       January   Chloé      10          
+Chronique Ciné       April     Chloé      5           
+Les poissons de l'an April     Chloé      10          
+Tuto du jour         May       Chloé      10          
+Délire de l'été      July      Chloé      10          
+
+7 lignes sélectionnées. 
+
+titre                mois      prenom     
+-------------------- --------- ---------- 
+Vacances au ski - pr February  Florian    
+Vacances au ski      March     Florian    
+Délire de l'été      August    Marine     
+C'est la rentrée     September Emma       
+
+titre                datepublication           numero      prenom     
+-------------------- ------------------------- ----------- ---------- 
+Poissons             2018-04-01                17          Alexandre  
+Anniversaire         2016-10-02                17          Alexandre  
+Cher Père Noel       2015-12-04                17          Alexandre  
+C'est la rentrée     2014-09-04                17          Alexandre  
+Noel 2011            2011-12-27                17          Alexandre  
+Tuto du jour         2011-05-20                17          Alexandre  
+Vacances au ski      2010-03-13                17          Alexandre  
+Anniversaire         2013-10-26                21          Antoine    
+Anniversaire         2013-01-27                21          Antoine    
+Nouvel An 2011       2011-01-14                21          Antoine    
+Délire de l'été      2010-08-15                21          Antoine    
+Vacances au ski - pr 2010-02-02                21          Antoine    
+Chronique Ciné       2008-04-06                21          Antoine    
+Musique du moment    2014-05-22                3           Camille    
+C'est la rentrée     2010-09-04                3           Camille    
+Délire de l'été      2010-08-15                3           Camille    
+Chronique Ciné       2008-04-06                3           Camille    
+Vacances au ski      2005-03-03                3           Camille    
+Poissons             2018-04-01                10          Chloé      
+C'est juste pour dir 2017-04-10                10          Chloé      
+Cher Père Noel       2015-12-04                10          Chloé      
+Préparation de Hallo 2015-10-23                10          Chloé      
+En route vers Noel   2012-12-20                10          Chloé      
+Tuto du jour         2011-05-20                10          Chloé      
+Vacances au ski      2010-03-13                10          Chloé      
+Halloween            2016-11-19                23          Clément    
+Préparation de Hallo 2015-10-23                23          Clément    
+Musique du moment    2014-05-22                23          Clément    
+Noel 2011            2011-12-27                23          Clément    
+Vacances au ski - pr 2010-02-02                23          Clément    
+C'est la rentrée     2008-09-03                23          Clément    
+Bientôt Noël         2005-12-08                23          Clément    
+C'est juste pour dir 2017-04-10                16          Hugo       
+Musique du moment    2014-05-22                16          Hugo       
+En route vers Noel   2012-12-20                16          Hugo       
+Bientôt les vacances 2012-06-17                16          Hugo       
+Tuto du jour         2011-05-20                16          Hugo       
+Nouvel An 2011       2011-01-14                16          Hugo       
+C'est la rentrée     2008-09-03                16          Hugo       
+Vacances au ski      2005-03-03                16          Hugo       
+Nouvel An 2016       2016-01-06                2           Manon      
+Préparation de Hallo 2015-10-23                2           Manon      
+Anniversaire         2013-01-27                2           Manon      
+Nouvel An 2011       2011-01-14                2           Manon      
+Vacances au ski      2010-03-13                2           Manon      
+Vivement les vacance 2009-06-10                2           Manon      
+Chronique Ciné       2008-04-06                2           Manon      
+Vacances au ski      2005-03-03                2           Manon      
+Poissons             2018-04-01                12          Mathilde   
+Délires              2018-02-23                12          Mathilde   
+C'est la rentrée     2010-09-04                12          Mathilde   
+Vivement les vacance 2009-06-10                12          Mathilde   
+Nouvel An 2016       2016-01-13                9           Sarah      
+Noel 2011            2011-12-27                9           Sarah      
+C'est la rentrée     2010-09-04                9           Sarah      
+
+55 lignes sélectionnées. 
+
+numero      prenom     numero      prenom     
+----------- ---------- ----------- ---------- 
+3           Camille    17          Alexandre  
+23          Clément    17          Alexandre  
+16          Hugo       17          Alexandre  
+2           Manon      17          Alexandre  
+9           Sarah      17          Alexandre  
+23          Clément    24          Alexis     
+16          Hugo       24          Alexis     
+21          Antoine    5           Chloé      
+3           Camille    5           Chloé      
+2           Manon      5           Chloé      
+17          Alexandre  10          Chloé      
+21          Antoine    10          Chloé      
+16          Hugo       10          Chloé      
+16          Hugo       10          Chloé      
+2           Manon      10          Chloé      
+2           Manon      10          Chloé      
+17          Alexandre  23          Clément    
+10          Chloé      23          Clément    
+10          Chloé      23          Clément    
+2           Manon      23          Clément    
+2           Manon      23          Clément    
+12          Mathilde   23          Clément    
+3           Camille    7           Emma       
+12          Mathilde   7           Emma       
+9           Sarah      7           Emma       
+17          Alexandre  26          Florian    
+21          Antoine    26          Florian    
+10          Chloé      26          Florian    
+23          Clément    26          Florian    
+2           Manon      26          Florian    
+12          Mathilde   16          Hugo       
+21          Antoine    1           Léa        
+3           Camille    1           Léa        
+23          Clément    1           Léa        
+16          Hugo       1           Léa        
+2           Manon      1           Léa        
+23          Clément    14          Lucas      
+21          Antoine    11          Marine     
+3           Camille    11          Marine     
+10          Chloé      15          Maxime     
+16          Hugo       15          Maxime     
+9           Sarah      19          Nicolas    
+17          Alexandre  6           Océane     
+10          Chloé      6           Océane     
+12          Mathilde   6           Océane     
+17          Alexandre  18          Quentin    
+21          Antoine    18          Quentin    
+23          Clément    18          Quentin    
+17          Alexandre  9           Sarah      
+10          Chloé      9           Sarah      
+16          Hugo       9           Sarah      
+16          Hugo       9           Sarah      
+
+52 lignes sélectionnées. 
+
+numero      prenom     
+----------- ---------- 
+17          Alexandre  
+10          Chloé      
+2           Manon      
+12          Mathilde   
+
+nombre                
+--------------------- 
+4                     
+
+numero      prenom     
+----------- ---------- 
+1           Léa        
+4           Marie      
+5           Chloé      
+6           Océane     
+7           Emma       
+8           Laura      
+11          Marine     
+13          Thomas     
+14          Lucas      
+15          Maxime     
+18          Quentin    
+19          Nicolas    
+20          Théo       
+22          Valentin   
+24          Alexis     
+25          Alexandre  
+26          Florian    
+
+17 lignes sélectionnées. 
+
+numero      titre                datepublication           duree       realisateur 
+----------- -------------------- ------------------------- ----------- ----------- 
+3           Les poissons de l'an 2016-04-14                238         10          
+5           Délire de l'été      2005-07-17                490         10          
+26          Nouvel An 2015       2005-01-23                279         10          
+
+titre                mois      prenom     
+-------------------- --------- ---------- 
+Nouvel An 2015       January   Chloé      
+Délire de l'été      July      Chloé      
+
